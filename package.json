@@ -20,7 +20,8 @@
     "url": "https://github.com/kbarresi/wikidata-search/issues"
   },
   "homepage": "https://github.com/kbarresi/wikidata-search#readme",
-  "dependencies" : {
+  "dependencies": {
+    "moment": "^2.18.1",
     "request": "latest"
   }
 }
